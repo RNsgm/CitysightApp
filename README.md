@@ -17,6 +17,6 @@
 :heavy_check_mark: Это уже сделано    
 :x: Я не буду это делать    
 :heavy_exclamation_mark: делать или не делать, вот в чем вопрос?    
-:interrobang: Каво?
-:clock10: В процессе
-:recycle: Переделать
+:interrobang: Каво?   
+:clock10: В процессе    
+:recycle: Переделать    
